@@ -1,0 +1,7 @@
+Dialogue
+Antonio: Where are you from?
+Margarita: I am from Riohacha.
+Antonio: Margarita, how do you spell that?
+Margarita: R-I-O-H-A-C-H-A
+Antonio: Nice to meet you, Margarita
+Margarita: Nice to meet you, too.

@@ -1,0 +1,12 @@
+Customers
+Server: Can I help anyone?
+Customer 2: Who's next?
+Customer 3: You were first, I think.
+Customer 2: What teas do you have?
+Server: Breakfast tea, mint and green tea.
+Customer 2: A mint tea and a slice of lemon cake, please.
+Server: To eat in or take away?
+Customer 2: Take away, please.
+Server: There you go. That'll be £4.20, please.
+Customer 2: Sorry, I've only got a fifty.
+Server: That's OK. Here's your change … 5, 10, 30, 50.

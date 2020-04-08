@@ -1,0 +1,14 @@
+Customer 1
+Customer 1: Can I have an orange juice, please?
+Server: Regular or large?
+Customer 1: How big is a large?
+Server: This is a large. This is a regular.
+Customer 1: I'll have a large, then, please. Without ice.
+Server: OK, coming up.
+Customer 1: Sorry, I wanted freshly squeezed orange juice.
+Server: I'm afraid we only have bottled juices.
+Customer 1: Oh, then I'll have an apple juice instead, please.
+Server: Here you go. That's £3.50, please.
+Customer: Thanks.
+Server: Thank you.
+

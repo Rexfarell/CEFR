@@ -1,0 +1,10 @@
+Introducing a friend
+Sumi: Hi, Pablo. How are you?
+Pablo: Hi, Sumi. I'm fine, thanks.
+Sumi: Pablo, this is Greta.
+Pablo: Hi, Greta, I'm Pablo.
+Greta: Hi. How are you?.
+Pablo: I'm fine, thanks. Where are you from, Greta?
+Greta: I'm from Germany. Where are you from?
+Pablo: I'm from Argentina. Nice to meet you.
+Greta: Nice to meet you too.

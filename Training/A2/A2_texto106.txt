@@ -1,0 +1,17 @@
+Shopping for clothes
+Shop assistant: Can I help you?
+Customer: Yes, have you got this T-shirt in other colours?
+Shop assistant: We’ve got it in white, black, red and purple. What size do you want?
+Customer: Medium.
+Shop assistant: OK, in medium we’ve got black and red.
+Customer: And in purple?
+Shop assistant: No, just black and red.
+Customer: OK, red. Can I try it on?
+Shop assistant: Yes, of course. The changing rooms are over there.
+(pause)
+Shop assistant: Is it OK?
+Customer: Yes, I’ll take it.
+Shop assistant: That’s £10.95. Would you like to pay by credit card or with cash?
+Customer: Cash please. Here’s twenty.
+Shop assistant: OK, thanks, that’s nine pounds, 5 p change and here’s your receipt.
+Customer: Thanks. Bye.

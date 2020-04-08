@@ -1,0 +1,7 @@
+In class
+A: Hi!
+B: Hey. What’s up?
+A: Not much.
+B: Good to see you. Are we in the same class?
+A: Yeah, I think we are. See you later, then.
+B: Bye. 

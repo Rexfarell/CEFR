@@ -1,0 +1,14 @@
+In the Restaurant
+Staff: Hello, Gino's.
+Jamie: Hi, I called earlier to book a table for four and I was wondering if I can make it for six instead?
+Staff: Ah, what name was it?
+Jamie: It's Jamie.
+Staff: Table for four at half past seven. So you want to change it to 6 o'clock?
+Jamie: No, sorry. Can I make it for six people?
+Staff: Oh, I see. Sorry! That shouldn't be a problem. I can move you to a bigger table but it will be nearer the kitchen. Is that OK?
+Jamie: No problem. Is it possible to change the time as well? Make it a little bit later?
+Staff: Ah ... yeah, we can. Is eight OK for you?
+Jamie: Perfect, thanks!
+Staff: Lovely. See you tomorrow, then.
+Jamie: Thanks! Bye!
+Staff: Thanks. Ciao! 

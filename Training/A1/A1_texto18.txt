@@ -1,0 +1,6 @@
+Room6
+What are your names, please?
+My name’s Daniel Ross and this is Kelly Easton.
+RECEPTIONIST: Where are you from?
+DANIEL We’re from USA. 
+RECEPTIONIST: Welcome to the conference. You’re in room 6.

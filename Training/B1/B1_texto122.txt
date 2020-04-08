@@ -1,0 +1,22 @@
+At the chemist
+Chemist: Hello, can I help?
+Customer: Yes, my wife sent me here. I, erm, need something for a sore throat … and I can't stop coughing. It really hurts.
+Chemist: Do you have a headache too?
+Customer: Not really, no.
+Chemist: Well, we have this syrup. And these lozenges.
+Customer: Which is better? 
+Chemist: They're both good. The syrup is more expensive.
+Customer: Oh, well … I'll take the lozenges, then. How many do I take?
+Chemist: Just one.
+Customer: Sorry, I'm sorry. Er, how often should I take it?
+Chemist: Just one every four to six hours. Take it before mealtimes. Are you allergic to any medicine?
+Customer: No.
+Chemist: Then you'll be fine with this.
+Customer: Can I get some antibiotics too?
+Chemist: I'm afraid you need a prescription for that.
+Customer: Ah.
+Chemist: You know, you should really see a doctor if that cough continues.
+Customer: Thanks. I know.
+Chemist: Anything else?
+Customer: No, thanks.
+Chemist: That'll be £7.49 then, please.

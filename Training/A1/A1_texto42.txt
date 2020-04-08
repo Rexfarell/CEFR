@@ -1,0 +1,16 @@
+Booking a table
+Staff: Hello, Gino's.
+Jamie: Hi. Can I book a table for tomorrow night, please?
+Staff: How many people is it for?
+Jamie: Four.
+Staff: And what time would you like?
+Jamie: About eight, eight thirty maybe?
+Staff: Let's see ... We're pretty busy tomorrow, so I can do half past seven or nine.
+Jamie: Oh. OK, then. Half seven, please.
+Staff: What name is it?
+Jamie: Jamie.
+Staff: J-A- ...?
+Jamie: M-I-E
+Staff: OK, so that's a table for four at half past seven tomorrow evening.
+Jamie: Great. Thanks! Bye.
+Staff: Bye

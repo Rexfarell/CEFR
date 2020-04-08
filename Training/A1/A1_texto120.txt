@@ -1,0 +1,4 @@
+“Hello. Can I speak to Bernie, please?”
+“Sorry. He’s not here at the moment”
+“OK. Can you tell him Mark called. He’s got my number”“
+OK. Bye

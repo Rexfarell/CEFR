@@ -1,0 +1,5 @@
+Business card 1
+A: Hello, Doctor Miller. It's nice to meet you.  
+B: Please call me Peter.
+A: OK. Are you a medical doctor? It must be helpful when you sell medical equipment.
+B: Actually, no. My doctorate was in electronic engineering, but it's still helpful for me when I sell our equipment.

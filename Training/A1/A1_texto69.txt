@@ -1,0 +1,14 @@
+Ordering food in a café
+Café worker: Next, please! What would you like?
+Andi: Can I have a burger, please?
+Café worker: A cheese burger or double cheese burger?
+Andi: Double cheese burger, please.
+Café worker: Anything else?
+Andi: Yeah, I'd like some banana cake.
+Café worker: Would you like a drink?
+Andi: Yes, can I have an apple juice, please?
+Café worker: OK, so that’s one double cheese burger, one banana cake and an apple juice. What’s your table number?
+Andi: Table 3. How much is that?
+Café worker: That’s £8.37, please.
+Andi: Here you are.
+Café worker: Thank you ... that’s £10.00 ... and £1.63 change. Next, please ...

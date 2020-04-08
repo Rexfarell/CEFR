@@ -1,0 +1,11 @@
+The library
+Student: Hi. Excuse me.
+Student B: Yes?
+Student: Where's the library?
+Student B: The library? It's next to the registration office.
+Student: Ah ... sorry, I'm new. Where's the registration office?
+Student B: No problem. See the big building over there?
+Student: Yes.
+Student B: OK, so that's the lecture theatre. Next to that, on the right, is the registration office. And next to that is the library.
+Student: I see. Thanks!
+

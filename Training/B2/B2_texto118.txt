@@ -1,0 +1,25 @@
+Joining a gym
+Receptionist: Hello, welcome to Shake it Off Fitness. How can I help you?
+Customer: Yes, thanks. I've been meaning to come in and find some information about here for some time. I was wondering if you could help me?
+Receptionist: Sure, of course. What would you like to know?
+Customer: I saw on the sign outside that you have the best budget membership in the city. Is that right?
+Receptionist: You've got that right, yes. If you find a better rate, then we'll match it. Also, we don't have any sign-up fees or cancellation fees.
+Customer: Sorry, what was that last bit?
+Receptionist: Cancellation fees. Some gyms charge you money if you leave before a minimum number of months or something like that. We don't do that.
+Customer: That's useful to know. Ummm, what times do you have?
+Receptionist: We open at 5 a.m. and close at midnight.
+Customer: Not 24 hours then, I see.
+Receptionist: No. Almost, though! We tried doing the 24-hour thing, but there really weren't a lot of people who wanted to do exercise at 2 in the morning.
+Customer: Makes sense. Another question: do you have trainers? Like, will you do a personalised evaluation of me?
+Receptionist: Sure we do. As we say on our brochure, we can show you what to do, how to do it and why you're doing it. Have you worked with a personal trainer before?
+Customer: Err, no. No, I haven't. No.
+Receptionist: So, it's very easy. For your first visits we'll assign you one of our expert personal trainers. He or she will design an exercise plan that's just right for you and show you exactly what to do. We even include nutrition advice in the plan.
+Customer: Let me get this straight. All of this is included in the price?
+Receptionist: Yes, it is. If you want to continue with your trainer after the first few classes, we can talk about that. It does cost extra though. OK?
+Customer: Yeah. Sounds ... great.
+Receptionist: Do you have any other questions?
+Customer: Hmmm, yeah. Um, OK. Why should I choose here instead of any of the other gyms in the city?
+Receptionist: What, you mean apart from our competitive rates and personalised attention?
+Customer: Yeah, I guess.
+Receptionist: Listen, here's a free day pass. Why don't you drop by and see for yourself? That way you can talk to other members, see the facilities and our staff.
+Customer: OK, I'll do that. Thanks very much!

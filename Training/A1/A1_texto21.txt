@@ -1,0 +1,9 @@
+Interview
+What’s your surname, please? my surname is smith
+What’s your first name?      my first name is Eric
+And what’s your nationality? I am Australian
+What’s your address?          My address is i 68 Evesham Road Liverpool L13 7K W
+And what’s your postcode?    My postcode is 11107
+What’s your mobile number?   My mobile number is 3158350405   
+And what’s your home number? my home number is 33389769
+What’s your email address? my email address is real@gamil.com

@@ -1,0 +1,3 @@
+Weather forecast
+News reporter: Here is the weather.
+Weather reporter: Welcome to the weather forecast. Now, let’s see what the weather is like today. In the north of the country it’s very windy and cold. There is a chance of some rain too, so don’t leave home without your umbrella! The temperature is around 10º centigrade. In the east it’s rainy all day today, I’m afraid. There may be a thunderstorm in the afternoon. The temperature is a bit higher, at around 13º. In the west and middle of the country the weather is dry, but cloudy. So no rain for you, but it is quite windy and the temperature is just 10º. The south of the country has the best weather today. It’s cloudy most of the time but sunny this afternoon. The temperature is around 15º.

@@ -1,0 +1,19 @@
+Shopping for clothes 
+Shop assistant: Hello, can I help you?
+Customer: I'm just looking, thanks.
+Customer: Excuse me?
+Shop assistant: Yes?
+Customer: Where are the changing rooms?
+Shop assistant: They're over there. Behind you.
+Customer: Thank you.
+Customer: Hi. Excuse me again. Do you have this jumper in black?
+Shop assistant: Yes, just a moment. What size do you need?
+Customer: Extra small, please.
+Shop assistant: Here you are.
+Customer: How much is this?
+Shop assistant: It's £29.
+Customer: Can I pay by credit card?
+Shop assistant: Yes, you can. Of course.
+Shop assistant: Would you like a bag for that?
+Customer: Yes, please.
+

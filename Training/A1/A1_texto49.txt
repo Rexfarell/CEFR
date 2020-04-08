@@ -1,0 +1,21 @@
+In the library
+Student: Hello?
+Librarian: Hello.
+Student: Is this the library?
+Librarian: Yes, it is. Quiet, please.
+Student: Oh, sorry. Thank you.
+Librarian: Can I help you?
+Student: Er, yes, please. I want to borrow some books. What do I need?
+Librarian: You need a library card. Here's the application form. You can take up to six books maximum today.
+Student: OK. Six books.
+Librarian: Yes. You have two weeks to read the books. Then you bring them back.
+Student: And if I'm late?
+Librarian: Every day you are late there is a fee of fifty pence.
+Student: OK, 50p a day. Er, anything else?
+Librarian: Mobile phones must be switched off in the library. You can bring your laptop, but please use headphones to watch videos or listen to music.
+Student: OK, great.
+Librarian: And you can't bring food or drink.
+Student: No food, no drink. And ...?
+Librarian: And please speak quietly! People are working here.
+Student: Oh! Oh, OK. Thank you.
+Librarian: You're welcome.

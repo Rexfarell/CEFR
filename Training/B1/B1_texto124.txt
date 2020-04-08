@@ -1,0 +1,26 @@
+Making a decision
+Jani: Thanks for coming, everyone. So, we're here today to define the timeline for our new project.
+Emiko: Yes, Jani, that's a great idea.
+Carolina: OK. What do you need from us?
+Emiko: Hold on a moment. I think we need to decide between us what to do, to make sure it works for all departments.
+Jani: Yes, exactly, don't worry. We're going to discuss this and make a decision together. Let's first think about the scheduling of each project phase. What do you think, Emiko?
+David: Can I interrupt? I think we should first be clear about the process we'll use to make the decision. How are we going to do it?
+Jani: Ah, yes. Good point. Well, I think the best way is for each of you to give your opinion and then we can discuss and make a decision.
+David: OK. That sounds good.
+Emiko: Yes, that works for me too. I know we're still planning the structure of the later phases of the project, but I think we should begin phase one as soon as possible. We can work out the rest later, as we go along.
+David: I'm sorry, I don't think so. How can we start phase one if we're not fully clear on where the rest of the project will take us? We might make a wrong decision and waste time.
+Jani: I agree with you on that point, David. However, we'll waste too much time if we wait until everything is planned before we actually start working on the project. I think we should take an agile approach.
+David: Agile approach?
+Jani: Well, it means that we start quickly and then adapt as we go along.
+Emiko: That's right.
+Jani: Carolina, you've been very quiet.
+Carolina: Um … I'm sorry. I didn't want to interrupt. I'm listening … and thinking.
+David: Do you agree we should get the plan right first, and then start with phase one?
+Carolina: I'm sorry, David. I don't think I agree with you. It's important to have a good plan. But plans can change, even the good ones – and business changes often. We need to be flexible, and we also need to move quickly.
+Jani: OK. So should we take a vote?
+Emiko: Well, you're the project leader. Let's go with your decision.
+Carolina: Yes, I'll follow your lead, Jani.
+David: Well, I guess that's decided then. We'll follow your agile approach, Jani. Start quickly and keep planning the later stages of the project.
+Jani: Yes, that's right.
+David: I still don't think this is the right decision, but I'm happy to go with the majority. We should add some space into the schedule later for additional work this 'flexibility' will need.
+Jani: Don't worry, David, we will. OK, so it's decided then. We'll start phase one as soon as possible, and in the background we'll continue planning the later phases and adapt them as we go along.

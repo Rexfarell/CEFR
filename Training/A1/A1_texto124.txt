@@ -1,0 +1,5 @@
+“Hello. Is Sue there please?”
+“Who’s calling?”
+“It’s Jenny”
+“Sorry. She’s not in right now. Can I take a message?”
+“No, it’s OK. I’ll try again later”

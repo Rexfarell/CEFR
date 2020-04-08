@@ -1,0 +1,11 @@
+Ordering in a coffe
+Server: Who's next?
+Customer 4: Can I have a ...
+Customer 3: Sorry, I think I was in front of you. 
+Customer 4: Oh, sorry! 
+Customer 3: Can I have a chocolate chip cookie, please?
+Server: Would you like a drink with that?
+Customer 3: No, thanks. Just the cookie.
+Server: OK, then. That's 95p, please.
+Customer 3: Thanks. I think that's right.
+Server: 50, 70, 80, 85, 90, 92, 94, yep, 95. Thank you.

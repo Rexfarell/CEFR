@@ -1,0 +1,5 @@
+Welcome to the class
+Hello. What’s your name,please?
+DENIZ: My name’s Deniz Aslan.
+TEACHER: I’m Peter Adams. Welcome to the class.
+DENIZ: Thank you TEACHER.
